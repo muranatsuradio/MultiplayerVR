@@ -299,6 +299,15 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "FlareLayer",
+            "fullManagedTypeName": "UnityEngine.FlareLayer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/IRONHEAD Games/Scenes/LoginScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Renderer",
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
@@ -372,7 +381,9 @@
             "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/IRONHEAD Games/Scenes/LoginScene.unity"
+                "Assets/IRONHEAD Games/Scenes/LoginScene.unity",
+                "Assets/IRONHEAD Games/Scenes/World_Outdoor.unity",
+                "Assets/IRONHEAD Games/Scenes/World_School.unity"
             ]
         },
         {
@@ -394,9 +405,7 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/IRONHEAD Games/Scenes/LoginScene.unity",
-                "Assets/IRONHEAD Games/Scenes/HomeScene.unity",
-                "Assets/IRONHEAD Games/Scenes/World_Outdoor.unity",
-                "Assets/IRONHEAD Games/Scenes/World_School.unity"
+                "Assets/IRONHEAD Games/Scenes/HomeScene.unity"
             ]
         },
         {
@@ -575,6 +584,15 @@
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "RuntimeAnimatorController",
             "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/IRONHEAD Games/Scenes/LoginScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AnimatorOverrideController",
+            "fullManagedTypeName": "UnityEngine.AnimatorOverrideController",
             "moduleName": "Animation",
             "usedInScenes": [
                 "Assets/IRONHEAD Games/Scenes/LoginScene.unity"
@@ -807,6 +825,55 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "ChangeColor",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ChangeName",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ExitGames.Demos.DemoPunVoice.FirstPersonController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ExitGames.Demos.DemoPunVoice.Highlighter",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ExitGames.Demos.DemoPunVoice.OrthographicController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ExitGames.Demos.DemoPunVoice.ThirdPersonController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "HighlightVoice",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "LocalPlayerUIManager",
             "moduleName": "",
             "usedInScenes": []
@@ -828,6 +895,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "MicPermissionHelper",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "MultiplayerVRSynchronization",
             "moduleName": "",
             "usedInScenes": []
@@ -843,6 +917,20 @@
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "PlayerNetworkSetup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PointersController",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ProximityVoiceTrigger",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -966,6 +1054,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "VoiceDebugUI",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "PhotonUnityNetworking.Demos.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Photon.Pun.Demo.Asteroids.Asteroid",
@@ -1029,6 +1124,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "PhotonUnityNetworking.Utilities.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Photon.Pun.UtilityScripts.MoveByKeys",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "PhotonUnityNetworking.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Photon.Pun.PhotonAnimatorView",
@@ -1060,6 +1162,34 @@
             "managedAssemblyName": "PhotonUnityNetworking.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Photon.Pun.ServerSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PhotonVoice.PUN.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Photon.Voice.PUN.PhotonVoiceNetwork",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PhotonVoice.PUN.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Photon.Voice.PUN.PhotonVoiceView",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PhotonVoice.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Photon.Voice.Unity.Recorder",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "PhotonVoice.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Photon.Voice.Unity.Speaker",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -1291,6 +1421,20 @@
             "managedAssemblyName": "Unity.XR.Oculus.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Unity.XR.Oculus.OculusSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.WindowsMixedReality.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.WindowsMR.WindowsMRBuildSettings",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.WindowsMixedReality.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.WindowsMR.WindowsMRSettings",
             "moduleName": "",
             "usedInScenes": []
         },
